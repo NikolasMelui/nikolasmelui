@@ -1,5 +1,3 @@
-### Hi there 👋
-
 ![Matrix has you](https://github.com/NikolasMelui/nikolasmelui/blob/master/matrix.gif)
 
 <!--
