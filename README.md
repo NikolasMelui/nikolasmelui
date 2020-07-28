@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Matrix has you](https://github.com/NikolasMelui/nikolasmelui/matrix.gif)
+![Matrix has you](https://github.com/NikolasMelui/nikolasmelui/blob/master/matrix.gif)
 
 <!--
 **NikolasMelui/nikolasmelui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
