@@ -1,15 +1,16 @@
 Who am I?
-Full-stack web developer, 7+ years of strong experience with:
-  - backend (Node.js, Golang, Java, PHP),
-  - devops (GitLab CI/CD, GitHub Actions, Docker, Kubernetes, Ansible),
-  - frontend (React, Vue, vanilla js).
-Open source engineer and IT community activist, invited speaker at conferences and meetups,
-CTO at "Mechanica", ex-CTO at "ANMEDIO" and "Multikey", VP at "Samara IT Community", co-author and...
+FS WD with more than 7 years of strong experience with backend and fronted development,
+DevOps culture addict, Technology evangilist, Software Applications architect and
+Team Lead responsible for results.
+Open Source engineer and IT community enthusiast, speaker at conferences and meetups,
+CTO at "Mechanica", ex-CTO at "ANMEDIO" and "Multikey", VP at "Samara IT Community",
+co-author and...
   speaker at "GrindConf",
   expert at "VolgaHack",
   host at "SITCast" and "SITalk".
-In love with *nix based systems, clean code, architectural approaches
+In love with *nix based systems, vim, clean code, architectural approaches
 and open source as the best thing that has happened to humanity.
+...
 @nikolasmelui - all social networks.
 ...
 Click to know more!
