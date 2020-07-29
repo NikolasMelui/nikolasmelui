@@ -1,9 +1,7 @@
-[![GIF Description! WOW!!!](https://github.com/nikolasmelui/nikolasmelui/blob/master/description.gif)](https://github.com/nikolasmelui)
+[![GIF Description? WOW!!!](https://github.com/nikolasmelui/nikolasmelui/blob/master/description.gif)](https://github.com/nikolasmelui/nikolasmelui/blob/master/CV.md)
 
 <!--
 **NikolasMelui/nikolasmelui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-![Matrix has you](https://github.com/nikolasmelui/nikolasmelui/blob/master/matrix.gif)
 
 Here are some ideas to get you started:
 
