@@ -1,8 +1,16 @@
 [![CV description](https://github.com/nikolasmelui/nikolasmelui/blob/master/description.gif)](https://github.com/nikolasmelui/nikolasmelui/blob/master/CV.md)
 
-🔭🔭🔭🔭🔭🔭🔭
-🔭🔭🔭🔭🔭🔭🔭
-🔭🔭🔭🔭🔭🔭🔭
+🔭
+
+🔭🔭
+
+🔭🔭🔭
+
+🔭🔭🔭🔭
+
+🔭🔭🔭🔭🔭
+
+🔭🔭🔭🔭🔭🔭
 
 <!--
 **NikolasMelui/nikolasmelui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
