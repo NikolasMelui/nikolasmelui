@@ -1,16 +1,6 @@
 [![CV description](https://github.com/nikolasmelui/nikolasmelui/blob/master/description.gif)](https://github.com/nikolasmelui/nikolasmelui/blob/master/CV.md)
 
-🔭
-
-🔭🔭
-
-🔭🔭🔭
-
-🔭🔭🔭🔭
-
-🔭🔭🔭🔭🔭
-
-🔭🔭🔭🔭🔭🔭
+Currently working hard on [Junost][https://github.com/anmedio/junost] and [Car Service API][https://github.com/injecteam/car-service-api]
 
 <!--
 **NikolasMelui/nikolasmelui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
