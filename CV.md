@@ -60,7 +60,7 @@ const nikolasmelui = {
         },
         {
           short:
-            'development of full-stack web back-office application for the iVolga 2.0 youth forum',
+            'full-stack web back-office application for the iVolga 2.0 youth forum',
           role: 'lead, backend, frontend',
           tech: 'node.js, react',
           tasks: [
