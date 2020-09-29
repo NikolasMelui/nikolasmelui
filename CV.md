@@ -1,5 +1,3 @@
-# CV
-
 ```javascript
 const nikolasmelui = {
   name: 'Nikolai Sladkii',

@@ -5,6 +5,7 @@ Team Lead responsible for results.
 Open Source engineer and IT community enthusiast, speaker at conferences and meetups,
 CTO at "Mechanica", ex-CTO at "ANMEDIO" and "Multikey", VP at "Samara IT Community",
 co-author and...
+  technology stakeholder at "Junost",
   speaker at "GrindConf",
   expert at "VolgaHack",
   host at "SITCast" and "SITalk".
