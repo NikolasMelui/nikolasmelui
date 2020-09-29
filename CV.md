@@ -28,7 +28,7 @@ const nikolasmelui = {
           short:
             'backend application for the of bonuses, discounts and cashbacks system',
           role: 'lead, backend',
-          tech: 'php',
+          tech: 'php, laravel',
           tasks: [
             'backend API development',
             'implementation of methods and adapters for communication with the side CMS system',
@@ -62,7 +62,7 @@ const nikolasmelui = {
           short:
             'full-stack web back-office application for the iVolga 2.0 youth forum',
           role: 'lead, backend, frontend',
-          tech: 'node.js, react',
+          tech: 'node.js, loopback, react',
           tasks: [
             'application architecture design',
             'backend API development',
