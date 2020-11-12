@@ -3,7 +3,8 @@ FS WD with more than 7 years of strong experience with backend and fronted devel
 DevOps culture addict, Technology evangilist, Software Applications architect and
 Team Lead responsible for results.
 Open Source engineer and IT community enthusiast, speaker at conferences and meetups,
-CTO at "Mechanica", ex-CTO at "ANMEDIO" and "Multikey", VP at "Samara IT Community",
+Senior Serverless JavaScript Developer at Voximpant,
+ex-CTO and Senior Backend Developer at "Mechanica, ex-ANMEDIO", ex-CTO at "Multikey", VP at "Samara IT Community",
 co-author and...
   technology stakeholder at "Junost",
   speaker at "GrindConf",
