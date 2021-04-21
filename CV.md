@@ -2,27 +2,28 @@
 const nikolasmelui = {
   name: 'Nikolai Sladkii',
   birth: 1991,
-  place: 'russia, samara',
+  place: 'Russia, Moscow',
   role: 'full-stack web developer (backend based)',
-  experience: '7+ years, strong',
+  experience: 'about 8 years, strong',
   contacts: {
     phone: '+79093442211',
     email: 'nikolasmelui@gmail.com',
     socials: '@nikolasmelui',
   },
   skills: {
-    techs: ['node.js', 'golang', 'php', 'java', 'react/vue'],
+    techs: ['javascript', 'node.js', 'golang', 'php', 'java', 'frontend (react/vue)'],
     tools: ['postgresql', 'mongodb', 'redis', 'rabbitmq', 'nginx', 'git', etc],
     ops: ['gl ci/cd', 'gh actions', 'docker', 'k8s', 'ansible', etc],
   },
   plans: {
-    techs: ['rust'],
+    techs: ['elixir', 'rust'],
     tools: ['4+1 avm'],
   },
   love: ['*nix', 'vim', 'clean code', 'architecture', 'open source'],
   work: [
     {
       company: 'voximplant',
+      actual: true,
       projects: [
         {
           short:
@@ -37,6 +38,7 @@ const nikolasmelui = {
     },
     {
       company: 'mechanica',
+      actual: false,
       projects: [
         {
           short:
