@@ -12,8 +12,8 @@ const nikolasmelui = {
   },
   skills: {
     techs: ['javascript', 'node.js', 'golang', 'php', 'java', 'frontend (react/vue)'],
-    tools: ['postgresql', 'mongodb', 'redis', 'rabbitmq', 'nginx', 'git', etc],
-    ops: ['gl ci/cd', 'gh actions', 'docker', 'k8s', 'ansible', etc],
+    tools: ['postgresql', 'mongodb', 'redis', 'rabbitmq', 'nginx', 'git', ...etc],
+    ops: ['gl ci/cd', 'gh actions', 'docker', 'k8s', 'ansible', ...etc],
   },
   plans: {
     techs: ['elixir', 'rust'],
@@ -28,8 +28,8 @@ const nikolasmelui = {
         {
           short:
             'VoxEngine - an application engine that runs your apps inside the VoxImplant cloud',
-          role: 'senior, backend, serverless',
-          tech: 'javascript, nodejs',
+          role: 'senior backend',
+          tech: ['javascript', 'node.js'],
           tasks: [
             'serverless cloud platform lib and API development',
           ],
@@ -42,9 +42,9 @@ const nikolasmelui = {
       projects: [
         {
           short:
-            'backend application for the of bonuses, discounts and cashbacks system',
-          role: 'lead, backend',
-          tech: 'php, laravel',
+            'backend application for the of bonuses, discounts and cashback system',
+          role: 'lead backend',
+          tech: ['php', 'laravel'],
           tasks: [
             'backend API development',
             'implementation of methods and adapters for communication with the side CMS system',
@@ -52,9 +52,9 @@ const nikolasmelui = {
           ],
         },
         {
-          short: 'backend application for the online poster of esports events',
-          role: 'lead, backend',
-          tech: 'node.js, strapi',
+          short: 'backend application for the online poster of ESports events',
+          roles: 'lead backend',
+          tech: ['node.js', 'strapi'],
           tasks: [
             'application architecture design',
             'backend API development',
@@ -65,8 +65,8 @@ const nikolasmelui = {
         {
           short:
             'golang microservice for b2b electronics portal (collecting, caching, changes checking and data sending (to the side system))',
-          role: 'backend',
-          tech: 'golang, redis',
+          role: 'senior backend',
+          tech: ['golang', 'redis'],
           tasks: [
             'application architecture design',
             'backend API development',
@@ -77,8 +77,8 @@ const nikolasmelui = {
         {
           short:
             'full-stack web back-office application for the iVolga 2.0 youth forum',
-          role: 'lead, backend, frontend',
-          tech: 'node.js, loopback, react',
+          role: 'lead backend',
+          tech: ['node.js', 'loopback', 'react'],
           tasks: [
             'application architecture design',
             'backend API development',
@@ -86,7 +86,7 @@ const nikolasmelui = {
             'implementation of "inventory accounting", "registration", "authorization", "accreditation" etc. modules',
           ],
         },
-        etc,
+        ...etc,
       ],
     },
   ],
