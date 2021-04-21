@@ -17,10 +17,24 @@ const nikolasmelui = {
   },
   plans: {
     techs: ['rust'],
-    tools: ['4+1 avm', 'plantuml'],
+    tools: ['4+1 avm'],
   },
   love: ['*nix', 'vim', 'clean code', 'architecture', 'open source'],
   work: [
+    {
+      company: 'voximplant',
+      projects: [
+        {
+          short:
+            'VoxEngine - an application engine that runs your apps inside the VoxImplant cloud',
+          role: 'senior, backend, serverless',
+          tech: 'javascript, nodejs',
+          tasks: [
+            'serverless cloud platform lib and API development',
+          ],
+        },
+      ],
+    },
     {
       company: 'mechanica',
       projects: [
