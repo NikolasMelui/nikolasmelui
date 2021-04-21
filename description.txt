@@ -1,12 +1,12 @@
 Who am I?
-FS WD with more than 7 years of strong experience with backend and fronted development,
+FS WD (backend based) with about 8 years of strong experience with backend and fronted development,
 DevOps culture addict, Technology evangilist, Software Applications architect and
-Team Lead responsible for results.
+Team Lead, responsible for results.
 Open Source engineer and IT community enthusiast, speaker at conferences and meetups,
 Senior Serverless JavaScript Developer at Voximpant,
-ex-CTO and Senior Backend Developer at "Mechanica, ex-ANMEDIO", ex-CTO at "Multikey", VP at "Samara IT Community",
+Lead Backend Developer at "Mechanica", ex-CTO at "ANMEDIO", ex-CTO at "Multikey", VP at "Samara IT Community",
 co-author and...
-  technology stakeholder at "Junost",
+  technology stakeholder of "Junost",
   speaker at "GrindConf",
   expert at "VolgaHack",
   host at "SITCast" and "SITalk".
