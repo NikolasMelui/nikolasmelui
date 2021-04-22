@@ -3,13 +3,13 @@ FS WD (backend based) with about 8 years of strong experience with backend and f
 DevOps culture addict, Technology evangelist, Software Applications architect and
 Team Lead, responsible for results.
 Open Source engineer and IT community enthusiast, speaker at conferences and meetups,
-ex-CTO at "Mechanica, ex-Anmedio" and "Multikey",
-VP at ["Samara IT Community"](https://sitc.community/),
+ex-CTO at "Mechanica", ex-"Anmedio" and "Multikey",
+VP at "Samara IT Community"],
 co-author and...
   technology stakeholder of "Junost",
   speaker at "GrindConf",
   expert at "VolgaHack",
-  host at "SITCast" and "SITalk"
+  host at "SITCast" and "SITalk".
 In love with *nix based systems, vim, clean code, architectural approaches
 and open source as the best thing that has happened to humanity.  
 ...  
