@@ -1,4 +1,4 @@
-[![CV description](https://github.com/nikolasmelui/nikolasmelui/blob/master/description.gif)](https://github.com/nikolasmelui/nikolasmelui/blob/master/CV.md)
+<!-- [![CV description](https://github.com/nikolasmelui/nikolasmelui/blob/master/description.gif)](https://github.com/nikolasmelui/nikolasmelui/blob/master/CV.md) -->
 
 Who am I? 🤔
 FS WD (backend based) with about 8 years of strong 💪 experience with backend 🌑 and fronted 🌕 development,
