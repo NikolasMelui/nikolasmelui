@@ -4,7 +4,7 @@ DevOps culture addict, Technology evangelist, Software Applications architect an
 Team Lead, responsible for results.
 Open Source engineer and IT community enthusiast, speaker at conferences and meetups,
 Senior Serverless JavaScript Developer at Voximpant,
-Lead Backend Developer at "Mechanica", ex-CTO at "ANMEDIO", ex-CTO at "Multikey", VP at "Samara IT Community",
+ex-Lead Backend Developer at "Mechanica", ex-CTO at "ANMEDIO", ex-CTO at "Multikey", VP at "Samara IT Community",
 co-author and...
   technology stakeholder of "Junost",
   speaker at "GrindConf",
