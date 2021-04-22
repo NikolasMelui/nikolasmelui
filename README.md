@@ -1,7 +1,7 @@
 <!-- [![CV description](https://github.com/nikolasmelui/nikolasmelui/blob/master/description.gif)](https://github.com/nikolasmelui/nikolasmelui/blob/master/CV.md) -->
 
 Who am I? 🤔  
-FS WD (backend based) with about 8 years of strong 💪 experience with backend and fronted development,  
+FS WD (backend based) with about 8 years of strong experience 💪 with backend and fronted development,  
 DevOps culture addict, Technology evangelist, Software Applications architect and  
 Team Lead, responsible for results 👍  
 Open Source engineer 🌱 and IT community enthusiast 🌿, speaker at conferences and meetups 🎤,  
