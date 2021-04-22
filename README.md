@@ -8,14 +8,14 @@ Open Source engineer 🌱 and IT community enthusiast 🌿, speaker at conferenc
 ex-CTO at [Mechanica, ex-Anmedio](https://mechanica.agency/) and [Multikey](https://multikey.studio),  
 VP at ["Samara IT Community"](https://sitc.community/),  
 co-author and...  
-technology stakeholder of ["Junost"](https://anmedio.github.io/junost/),  
-speaker at ["GrindConf"](https://sitc.community/events/grind-conf/),  
-expert at ["VolgaHack"](https://sitc.community/events/volgahack/),  
-host at ["SITCast"](https://podcasts.apple.com/ru/podcast/sitcast/id1449716272) and ["SITalk"](https://podcasts.apple.com/ru/podcast/sitcast/id1449716272)  
+  technology stakeholder of [Junost](https://anmedio.github.io/junost/),  
+  speaker at [GrindConf](https://sitc.community/events/grind-conf/),  
+  expert at [VolgaHack](https://sitc.community/events/volgahack/),  
+  host at [SITCast](https://podcasts.apple.com/ru/podcast/sitcast/id1449716272) and ["SITalk"](https://podcasts.apple.com/ru/podcast/sitcast/id1449716272)  
 In love with \*nix based systems 🐧, vim ⚡, clean code ♻️, architectural approaches 🧠  
 and open source 🚀 as the best thing that has happened to humanity 😻😻😻  
 ...  
-Currently working hard on [VoxEngine](https://voximplant.ru/docs/introduction/introduction_to_voximplant/capabilities_and_components/voxengine) 🔥 at [Voximplant](https://voximplant.com) 💜 as the **Senior Serverless JavaScript Developer** 👷  
+Currently working hard on [VoxEngine](https://voximplant.ru/docs/introduction/introduction_to_voximplant/capabilities_and_components/voxengine) 🔥 at [Voximplant](https://voximplant.com) 💜 as a **Senior Serverless JavaScript Developer** 👷  
 ...  
 @nikolasmelui - all socials 💬  
 ...
