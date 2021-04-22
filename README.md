@@ -1,6 +1,24 @@
 [![CV description](https://github.com/nikolasmelui/nikolasmelui/blob/master/description.gif)](https://github.com/nikolasmelui/nikolasmelui/blob/master/CV.md)
 
-Currently working hard on VoxEngine at [Voximplant](https://voximplant.com)
+Who am I? 🤔
+FS WD (backend based) with about 8 years of strong 💪 experience with backend 🌑 and fronted 🌕 development,
+DevOps culture addict, Technology evangelist, Software Applications architect and
+Team Lead, responsible for results 👍
+Open Source engineer 🌱 and IT community enthusiast 🌿, speaker at conferences and meetups 🎤,
+ex-CTO at [Mechanica, ex-Anmedio](https://mechanica.agency/) 🔧 and [Multikey](https://multikey.studio) 🔑,
+VP at ["Samara IT Community"](https://sitc.community/) 👪,
+co-author and...
+  technology stakeholder of ["Junost"](https://anmedio.github.io/junost/),
+  speaker at ["GrindConf"](https://sitc.community/events/grind-conf/),
+  expert at ["VolgaHack"](https://sitc.community/events/volgahack/),
+  host at ["SITCast"](https://podcasts.apple.com/ru/podcast/sitcast/id1449716272) and ["SITalk"](https://podcasts.apple.com/ru/podcast/sitcast/id1449716272)
+In love with \*nix based systems 🐧, vim ⚡, clean code ♻️, architectural approaches 🧠
+and open source 🚀 as the best thing that has happened to humanity 😻😻😻
+...
+Currently working hard on [VoxEngine](https://voximplant.ru/docs/introduction/introduction_to_voximplant/capabilities_and_components/voxengine) 🔥 at [Voximplant](https://voximplant.com) 💜 as the **Senior Serverless JavaScript Developer** 👷
+...
+@nikolasmelui - all socials 💬
+...
 
 <!--
 **NikolasMelui/nikolasmelui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,5 +32,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+-  Fun fact: ...
 -->
