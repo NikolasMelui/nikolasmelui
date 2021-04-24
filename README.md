@@ -11,7 +11,7 @@ co-author and...
   technology stakeholder of [Junost](https://anmedio.github.io/junost/),  
   speaker at [GrindConf](https://sitc.community/events/grind-conf/),  
   expert at [VolgaHack](https://sitc.community/events/volgahack/),  
-  host at [SITCast](https://podcasts.apple.com/ru/podcast/sitcast/id1449716272) and ["SITalk"](https://podcasts.apple.com/ru/podcast/sitcast/id1449716272)  
+  host at [SITCast](https://podcasts.apple.com/ru/podcast/sitcast/id1449716272) and [SITalk](https://podcasts.apple.com/ru/podcast/sitcast/id1449716272)  
 In love with \*nix based systems 🐧, vim ⚡, clean code ♻️, architectural approaches 🧠  
 and open source 🚀 as the best thing that has happened to humanity 😻😻😻  
 ...  
