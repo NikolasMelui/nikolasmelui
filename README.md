@@ -17,7 +17,8 @@ and open source 🚀 as the best thing that has happened to humanity 😻😻�
 ...  
 Currently working hard on [VoxEngine](https://voximplant.ru/docs/introduction/introduction_to_voximplant/capabilities_and_components/voxengine) 🔥 at [Voximplant](https://voximplant.com) 💜 as a **Senior Serverless JavaScript Developer** 👷  
 ...  
-@nikolasmelui - all socials 💬  
+@nikolasmelui - all socials 💬
+[CV](https://github.com/NikolasMelui/nikolasmelui/blob/master/CV.js) - to know more ℹ️
 ...
 
 <!--
