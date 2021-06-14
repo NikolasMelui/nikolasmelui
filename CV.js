@@ -10,8 +10,8 @@ const nikolasmelui = {
     socials: '@nikolasmelui',
   },
   skills: {
-    techs: ['javascript', 'node.js', 'golang', 'php', 'java', 'frontend (react/vue)'],
-    tools: ['postgresql', 'mongodb', 'redis', 'rabbitmq', 'nginx', 'git', ...etc],
+    techs: ['javascript', 'node.js', 'golang', 'python', 'java', 'php', 'frontend (react/vue)'],
+    tools: ['postgresql', 'mongodb', 'redis', 'rabbitmq', 'kafka', 'nginx', 'git', ...etc],
     ops: ['gl ci/cd', 'gh actions', 'docker', 'k8s', 'ansible', ...etc],
   },
   plans: {
