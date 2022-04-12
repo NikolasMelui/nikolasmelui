@@ -1,18 +1,17 @@
 const nikolasmelui = {
   name: 'Nikolai Sladkii',
   birth: 1991,
-  place: 'Russia, Moscow',
-  role: 'full-stack web developer (backend based)',
-  experience: 'about 8 years, strong',
+  role: 'backend developer',
+  experience: '9 years',
   contacts: {
     phone: '+79093442211',
     email: 'nikolasmelui@gmail.com',
     socials: '@nikolasmelui',
   },
   skills: {
-    techs: ['javascript', 'node.js', 'golang', 'python', 'java', 'php', 'frontend'],
-    tools: ['postgresql', 'mongodb', 'redis', 'rabbitmq', 'kafka', 'nginx', 'git', ...etc],
-    ops: ['gl ci/cd', 'gh actions', 'docker', 'k8s', 'ansible', ...etc],
+    techs: ['node.js', 'golang', 'python', 'java', 'php'],
+    tools: ['postgresql', 'redis', 'rabbitmq', 'nginx', 'postman', 'git', ...etc],
+    ops: ['docker', 'k8s', 'ansible', 'ci/cd', 'actions',  ...etc],
   },
   plans: {
     techs: ['elixir', 'rust'],
@@ -27,8 +26,8 @@ const nikolasmelui = {
         {
           short:
             'VoxEngine - an application engine that runs your apps inside the VoxImplant cloud',
-          role: 'senior backend',
-          tech: ['javascript', 'node.js'],
+          role: 'senior serverless (backend)',
+          tech: ['node.js', 'golang', 'c++'],
           tasks: [
             'serverless cloud platform lib and API development',
           ],
