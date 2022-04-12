@@ -1,7 +1,7 @@
 <!-- [![CV description](https://github.com/nikolasmelui/nikolasmelui/blob/master/description.gif)](https://github.com/nikolasmelui/nikolasmelui/blob/master/CV.md) -->
 
 Who am I? 🤔  
-FS WD (backend based) with about 8 years of strong experience 💪 with backend and fronted development,  
+FS WD (backend based) with about 9 years of strong experience 💪 with backend and fronted development,  
 DevOps culture addict, Technology evangelist, Software Applications architect and  
 Team Lead, responsible for results 👍  
 Open Source engineer 🌱 and IT community enthusiast 🌿, speaker at conferences and meetups 🎤,  
@@ -15,7 +15,7 @@ co-author and...
 In love with \*nix based systems 🐧, vim ⚡, clean code ♻️, architectural approaches 🧠  
 and open source 🚀 as the best thing that has happened to humanity 😻😻😻  
 ...  
-Currently working hard on [VoxEngine](https://voximplant.ru/docs/introduction/introduction_to_voximplant/capabilities_and_components/voxengine) 🔥 at [Voximplant](https://voximplant.com) 💜 as a **Senior Serverless JavaScript Developer** 👷  
+Currently working hard on [VoxEngine](https://voximplant.com/docs/introduction/introduction_to_voximplant/capabilities_and_components/voxengine) 🔥 at [Voximplant](https://voximplant.com) 💜 as a **Senior Serverless Developer** 👷  
 ...  
 @nikolasmelui - all socials 💬  
 ...  
