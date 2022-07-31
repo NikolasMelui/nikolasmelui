@@ -25,8 +25,18 @@ const nikolasmelui = {
       projects: [
         {
           short:
+            'VoxEngineCI - manage Voximplant applications, rules, and scenarios from your own environment',
+          role: 'lead backaend',
+          tech: ['node.js'],
+          tasks: [
+            'application architecture design',
+            'backend API development',
+          ],
+        },
+        {
+          short:
             'VoxEngine - an application engine that runs your apps inside the VoxImplant cloud',
-          role: 'senior serverless (backend)',
+          role: 'lead serverless (backend)',
           tech: ['node.js', 'golang', 'c++'],
           tasks: [
             'serverless cloud platform lib and API development',
