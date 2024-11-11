@@ -7,7 +7,7 @@ Team Lead, responsible for results 👍
 Open Source engineer 🌱 and IT community enthusiast 🌿, speaker at conferences and meetups 🎤,  
 ex-CTO at [Mechanica, ex-Anmedio](https://mechanica.agency/) and [Multikey](https://multikey.studio),  
 VP at ["Samara IT Community"](https://sitc.community/),  
-сhairman of [Пивной Четверг](beer4.ru) / [Пивной Четверг - Бусти](https://boosty.to/beer4)
+сhairman of [Пивной Четверг](beer4.ru) / [Пивной Четверг - Бусти](https://boosty.to/beer4)  
 co-author and...  
   technology stakeholder of [Junost](https://anmedio.github.io/junost/),  
   speaker at [GrindConf](https://sitc.community/events/grind-conf/),  
