@@ -1,33 +1,34 @@
 const nikolasmelui = {
   name: 'Nikolai Sladkii',
   birth: 1991,
-  role: 'backend developer',
-  experience: '9 years',
+  role: 'Head of VoxEngine & DevTools',
+  experience: '10+ years',
   contacts: {
     phone: '+79093442211',
     email: 'nikolasmelui@gmail.com',
     socials: '@nikolasmelui',
   },
   skills: {
-    techs: ['node.js', 'golang', 'python', 'java', 'php'],
+    techs: ['javascript/typescript (backend)', 'golang', 'python', 'dotnet', 'java', 'php'],
     tools: ['postgresql', 'redis', 'rabbitmq', 'nginx', 'postman', 'git', ...etc],
     ops: ['docker', 'k8s', 'ansible', 'ci/cd', 'actions',  ...etc],
   },
-  plans: {
+  interests: {
     techs: ['elixir', 'rust'],
-    tools: ['4+1 avm'],
+    tools: ['4+1 avm'б Head of VoxEngine & DevTools],
   },
   love: ['*nix', 'vim', 'clean code', 'architecture', 'open source'],
   work: [
     {
-      company: 'voximplant',
+      company: 'Voximplant',
       actual: true,
       projects: [
         {
           short:
             'VoxEngineCI - manage Voximplant applications, rules, and scenarios from your own environment',
-          role: 'lead backaend',
-          tech: ['node.js'],
+          more: 'https://voximplant.com/docs/guides/voxengine/ci',
+          role: 'Principal Engineer (backaend)',
+          tech: ['node.js', 'ci tools'],
           tasks: [
             'application architecture design',
             'backend API development',
@@ -35,17 +36,19 @@ const nikolasmelui = {
         },
         {
           short:
-            'VoxEngine - an application engine that runs your apps inside the VoxImplant cloud',
-          role: 'lead serverless (backend)',
-          tech: ['node.js', 'golang', 'c++'],
+            'VoxEngine - powerful cloud-based tool (runtime) to process javascript scenarios using features like calls, IVRs, speech synthesis / recognition, call recordings, and much more',
+          more: 'https://voximplant.com/docs/guides/voxengine',
+          role: 'Principal Engineer (backend)',
+          tech: ['javascript/typescript (backand)', 'c++'],
           tasks: [
-            'serverless cloud platform lib and API development',
+            'application architecture design',
+            'backend API development',
           ],
         },
       ],
     },
     {
-      company: 'mechanica',
+      company: 'Mechanica',
       actual: false,
       projects: [
         {
